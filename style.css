@@ -70,7 +70,7 @@ body {
 
 /* Style for each div within the #details section */
 #details div {
-  float: left; /* Float the divs to the left */
+  float:left; /* Float the divs to the left */
   width: 20%; /* Each div occupies 25% of the width */
   box-sizing: border-box; /* Include padding and border in the total width/height */
   text-align: center; /* Center the text within each div */
@@ -81,7 +81,7 @@ body {
 
 /* Optional: Add some space between the divs */
 #details div:not(:last-child) {
-  margin-left:percentage;
+  margin-left:auto;
 }
 
 
